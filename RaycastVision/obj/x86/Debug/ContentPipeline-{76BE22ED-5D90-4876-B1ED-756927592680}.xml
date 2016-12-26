@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mrbrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\effects.xnb</Output>
+      <Time>2016-12-25T18:54:51.9499255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map1.png</Source>
+      <Name>Map1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mrbrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Map1.xnb</Output>
+      <Time>2016-12-24T00:15:17.6675671+01:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\Documents\Visual Studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2016-12-20T17:45:59.1379454+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UniColor.png</Source>
+      <Name>UniColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\Documents\Visual Studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\UniColor.xnb</Output>
+      <Time>2016-12-20T18:17:03.0945774+01:00</Time>
+    </Item>
+    <Item>
+      <Source>no_ammo.wav</Source>
+      <Name>no_ammo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\no_ammo.xnb</Output>
+      <Time>2016-12-21T12:44:32.5884969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>reload.wav</Source>
+      <Name>reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\reload.xnb</Output>
+      <Time>2016-12-21T12:44:04.2301999+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.wav</Source>
+      <Name>shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2016-12-21T12:43:46.7338283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall1.png</Source>
+      <Name>Wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall1.xnb</Output>
+      <Time>2016-12-20T18:53:15.118249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall2.png</Source>
+      <Name>Wall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall2.xnb</Output>
+      <Time>2016-12-20T18:53:08.3176796+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall3.png</Source>
+      <Name>Wall3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall3.xnb</Output>
+      <Time>2016-12-20T14:52:15.0404746+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall4.png</Source>
+      <Name>Wall4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall4.xnb</Output>
+      <Time>2016-12-20T14:52:31.9924733+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall5.png</Source>
+      <Name>Wall5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall5.xnb</Output>
+      <Time>2016-12-20T14:53:07.281416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall6.png</Source>
+      <Name>Wall6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Wall6.xnb</Output>
+      <Time>2016-12-20T14:53:25.0562736+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon1.png</Source>
+      <Name>Weapon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Weapon1.xnb</Output>
+      <Time>2016-12-20T16:27:25.1702433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon2.png</Source>
+      <Name>Weapon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Weapon2.xnb</Output>
+      <Time>2016-12-20T16:27:32.6619894+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon3.png</Source>
+      <Name>Weapon3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Weapon3.xnb</Output>
+      <Time>2016-12-20T16:27:36.2097562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon4.png</Source>
+      <Name>Weapon4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Weapon4.xnb</Output>
+      <Time>2016-12-20T16:27:39.9978602+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapon5.png</Source>
+      <Name>Weapon5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Weapon5.xnb</Output>
+      <Time>2016-12-20T16:27:47.7735947+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard1.png</Source>
+      <Name>Guard1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard1.xnb</Output>
+      <Time>2016-12-21T18:48:36.5632121+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard2.png</Source>
+      <Name>Guard2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard2.xnb</Output>
+      <Time>2016-12-21T18:48:44.3068405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard3.png</Source>
+      <Name>Guard3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard3.xnb</Output>
+      <Time>2016-12-21T18:48:49.379057+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard4.png</Source>
+      <Name>Guard4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard4.xnb</Output>
+      <Time>2016-12-21T18:48:56.0585304+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard5.png</Source>
+      <Name>Guard5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard5.xnb</Output>
+      <Time>2016-12-21T18:49:04.7863364+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard6.png</Source>
+      <Name>Guard6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard6.xnb</Output>
+      <Time>2016-12-21T18:49:14.522981+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard7.png</Source>
+      <Name>Guard7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard7.xnb</Output>
+      <Time>2016-12-21T18:49:20.3865036+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard8.png</Source>
+      <Name>Guard8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard8.xnb</Output>
+      <Time>2016-12-21T18:49:25.6326174+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Guard9.png</Source>
+      <Name>Guard9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Guard9.xnb</Output>
+      <Time>2016-12-23T01:11:44.4310844+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shot_enemy.wav</Source>
+      <Name>shot_enemy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\shot_enemy.xnb</Output>
+      <Time>2016-12-23T01:26:27.0983416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object1.png</Source>
+      <Name>Object1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Object1.xnb</Output>
+      <Time>2016-12-24T00:24:29.8561116+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object2.png</Source>
+      <Name>Object2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Object2.xnb</Output>
+      <Time>2016-12-24T00:00:07.8687261+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object3.png</Source>
+      <Name>Object3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Object3.xnb</Output>
+      <Time>2016-12-24T00:24:03.5672841+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object4.png</Source>
+      <Name>Object4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Object4.xnb</Output>
+      <Time>2016-12-24T00:25:24.7916006+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object5.png</Source>
+      <Name>Object5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Object5.xnb</Output>
+      <Time>2016-12-24T00:25:03.8887398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map2.png</Source>
+      <Name>Map2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\Map2.xnb</Output>
+      <Time>2016-12-24T14:06:46.5777872+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{76BE22ED-5D90-4876-B1ED-756927592680}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVisionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\MrBrenan\documents\visual studio 2015\Projects\RaycastVision\RaycastVision\RaycastVision\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-12-18T19:30:04.0922455+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

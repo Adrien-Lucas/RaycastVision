@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaycastVision", "RaycastVision\RaycastVision\RaycastVision.csproj", "{73A46E97-325D-4F0E-9F53-89FAFC6AF869}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaycastVision", "RaycastVision\RaycastVision.csproj", "{73A46E97-325D-4F0E-9F53-89FAFC6AF869}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RaycastVisionContent", "RaycastVision\RaycastVisionContent\RaycastVisionContent.contentproj", "{76BE22ED-5D90-4876-B1ED-756927592680}"
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RaycastVisionContent", "RaycastVisionContent\RaycastVisionContent.contentproj", "{76BE22ED-5D90-4876-B1ED-756927592680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
